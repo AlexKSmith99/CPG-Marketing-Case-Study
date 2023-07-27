@@ -1,5 +1,5 @@
 # CPG-Marketing-Case-Study
-Overview Rocket Fuel Energy is a new emerging energy drink brand, it competes directly against Red Bull, Monster, and Rockstar. Rocket Fuel Energy is running Sponsored Products and has approached the Ads + Promotions insights team to put together a report for their leadership on the performance of their campaign.
+**Overview:** Rocket Fuel Energy is a new emerging energy drink brand, it competes directly against Red Bull, Monster, and Rockstar. Rocket Fuel Energy is running Sponsored Products and has approached the Ads + Promotions insights team to put together a report for their leadership on the performance of their campaign.
 <img width="999" alt="Screen Shot 2023-07-27 at 2 16 41 PM" src="https://github.com/AlexKSmith99/CPG-Marketing-Case-Study/assets/123396488/b7d6007f-ed7f-45b8-982d-4f6d3a574388">
 
 What insights can you derive from the metrics in the data set provided for the Rocket Fuel
